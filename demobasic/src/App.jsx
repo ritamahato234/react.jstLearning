@@ -2,9 +2,16 @@
 // import reactLogo from './assets/react.svg'
 // import viteLogo from '/vite.svg'
 // import './App.css'
-
+import Test from "./Test";
 function App() {
-  return <h1>Ritas react code</h1>;
+return(
+  <>
+    <Test></Test>
+<p>the most dangerous part</p>
+  </>
+
+)
+
 }
 
 export default App;
